@@ -1,0 +1,13 @@
+body{
+    background-color:black;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+    color: cornsilk;
+}
+
+nav{
+    background-color: maroon;
+}
+img{
+    float:left;
+}
